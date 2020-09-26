@@ -12,3 +12,7 @@ This is a movie browsing app - that let a user view and scroll through a list of
 * User can view and scroll through a list of movies now playing in thearters
 * User can view the movie posters in each row
 
+### Bonus User Stories
+
+* partially auto layout
+
