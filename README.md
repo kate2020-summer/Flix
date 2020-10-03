@@ -24,5 +24,7 @@ movie detail screen and also add a tab bar
 
 * partially auto layout
 
+* User can tap a poster in this collection view to see a detail screen of that movie
+
 
 
