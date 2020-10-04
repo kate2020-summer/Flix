@@ -1,10 +1,6 @@
-# Flix
+# Flix_upgrade
 
 ## Overview
-
-Codepath Ios Assignment_1
-
-This is a movie browsing app - that let a user view and scroll through a list of movies
 
 Codepath Ios Assignment_2
 
@@ -13,16 +9,10 @@ movie detail screen and also add a tab bar
 
 ### User Stories
 
-* User sees an app icon on the home screen and a styled launch screen
-* User can view and scroll through a list of movies now playing in thearters
-* User can view the movie posters in each row
-
 * User can tap a cell to see more details about a particular movie.
 * User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView
 
 ### Bonus User Stories
-
-* partially auto layout
 
 * User can tap a poster in this collection view to see a detail screen of that movie
 
